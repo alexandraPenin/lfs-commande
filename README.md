@@ -1,5 +1,7 @@
 # Pandas example
 
+Coucou les amis! :) :)
+
 This project is an usage example of `pandas`' library in Python.
 
 We will see the differences between `Series` and `DataFrame`:
