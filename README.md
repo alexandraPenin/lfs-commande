@@ -1,4 +1,4 @@
-# Pandas example
+# Pandas example voila le conflit
 
 Coucou les amis! :) :)
 
